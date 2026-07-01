@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tyler Cassidy, an assistant professor in the faculty of Pharmaceutical Sciences at the University of British Columbia. Before returning to Canada, I was a lecturer in mathematical biology at the University of Leeds, a senior scientist in the Oncology Research Unit of Pfizer, a postdoc at the Los Alamos National Laboratory, and completed my PhD at McGill University, in Montreal. 
+I'm Tyler Cassidy, an assistant professor in the Faculty of Pharmaceutical Sciences at the University of British Columbia. Before returning to Canada, I was a lecturer in mathematical biology at the University of Leeds, a senior scientist in the Oncology Research Unit of Pfizer, a postdoc at the Los Alamos National Laboratory, and completed my PhD at McGill University, in Montreal. 
 
 I am an applied mathematician working at the intersection of mathematics and medicine. My research uses mathematical models to understand disease progression and treatment resistance, particularly in solid cancers and viral infections.
 
