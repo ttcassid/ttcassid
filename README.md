@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Tyler Cassidy, a lecturer in mathematical biology at the University of Leeds. Before arriving at Leeds, I was a senior scientist in the Oncology Research Unit of Pfizer, a postdoc at the Los Alamos National Laboratory, and completed my PhD at McGill University, in Montreal. 
+I'm Tyler Cassidy, an assistant professor in the faculty of Pharmaceutical Sciences at the University of British Columbia. Before returning to Canada, I was a lecturer in mathematical biology at the University of Leeds, a senior scientist in the Oncology Research Unit of Pfizer, a postdoc at the Los Alamos National Laboratory, and completed my PhD at McGill University, in Montreal. 
 
 I am an applied mathematician working at the intersection of mathematics and medicine. My research uses mathematical models to understand disease progression and treatment resistance, particularly in solid cancers and viral infections.
 
 Mathematically, I am interested in structured population models and delay differential equations and enjoy thinking about numerical and analytical techniques to study these models. I've found the language of dynamical systems to be extremely useful in understanding disease progression as well as virtual clinical trials to understand population-level response to therapeutic approaches.
 
-I use the pronouns he/him/his and my faculty page is here: https://eps.leeds.ac.uk/maths/staff/11895/dr-tyler-cassidy
+I use the pronouns he/him/his and my faculty page is [here](https://pharmsci.ubc.ca/directory/tyler-cassidy).
 
 <!--
 **ttcassid/ttcassid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
